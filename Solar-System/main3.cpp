@@ -7,6 +7,7 @@
 #include"imgui_impl_glut.h"
 #include"imgui_impl_opengl3.h"
 
+// planet data
 #define SUN 0
 #define MERCURY 1
 #define VENUS 2
